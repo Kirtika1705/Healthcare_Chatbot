@@ -1,2 +1,2 @@
-# Healthcare_Chatbot
-A healthcare chatbot uses the power of artificial intelligence or machine learning to do exactly that and more. It can answer symptoms and other health-related questions, recommend solutions and connect people to relevant specialists nearby.
+# healthcare-chatbot
+a chatbot based on sklearn where you can give a symptom and it will ask you questions and will tell you the details and give some advice.
